@@ -17,7 +17,7 @@ This repository provides **real-style practice material** and a **sample PDF pre
 
 Want to check the quality before you buy?
 
-📄 [5 Sample Questions PDF](SC-300-Sample-Questions-Answers-pdf)
+📄 [Download 5 Sample Questions PDF](SC-300-Sample-Questions-Answers-pdf)
 
 These are representative of the full study package.
 
