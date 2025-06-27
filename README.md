@@ -44,13 +44,6 @@ These are representative of the full study package.
 
 🎯 Visit: [https://www.realexamcollection.com/exams/sc-300/](https://www.realexamcollection.com/microsoft/sc-300-dumps.html)  
 🔥 Offer valid for a limited time – don't miss out!
-
----
-
-## ⚠️ Disclaimer
-
-This study material is for **educational purposes only**. It is not an official Microsoft product. We support ethical and responsible exam preparation. Passing the exam depends on your effort and understanding.
-
 ---
 
 ### 🔐 Study smart. Stay ethical. Earn your SC-300 badge with confidence.
