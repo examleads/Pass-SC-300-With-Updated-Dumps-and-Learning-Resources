@@ -4,8 +4,6 @@ The **SC-300: Microsoft Identity and Access Administrator** certification is a v
 
 This repository provides **real-style practice material** and a **sample PDF preview** to help you prepare more effectively, with support from **RealExamCollection**.
 
----
-
 ## 🧠 What You Get from This Repo
 
 ✔️ Real-style exam questions  
@@ -13,9 +11,7 @@ This repository provides **real-style practice material** and a **sample PDF pre
 ✔️ Based on 2025 exam objectives  
 ✔️ Easy-to-use, mobile-friendly PDF format  
 ✔️ Honest study support – no fake promises  
-✔️ [20% Discount Available – Limited Time Offer](https://www.realexamcollection.com/exams/sc-300/)
-
----
+✔️ [20% Discount Available – Limited Time Offer](https://www.realexamcollection.com/microsoft/sc-300-dumps.html)
 
 ## 📎 Sample SC-300 Questions Preview
 
@@ -24,8 +20,6 @@ Want to check the quality before you buy?
 📄 [Download 5 Sample Questions PDF](./SC-300-Sample-Questions.pdf)
 
 These are representative of the full study package.
-
----
 
 ## 📦 What’s in the Full SC-300 Package?
 
@@ -37,8 +31,6 @@ These are representative of the full study package.
 
 > ✅ There are complete exam dumps PDF that boost and help you to pass in first try — **check the sample questions before buying**.
 
----
-
 ## 🌐 Why RealExamCollection?
 
 [RealExamCollection.com](https://www.realexamcollection.com)
@@ -48,11 +40,9 @@ These are representative of the full study package.
 - Fast delivery and 24/7 support  
 - Ethical, no-fake approach to IT certification
 
----
-
 ## 💸 20% OFF – Use Promo Code `REC20`
 
-🎯 Visit: [https://www.realexamcollection.com/exams/sc-300/](https://www.realexamcollection.com/exams/sc-300/)  
+🎯 Visit: [https://www.realexamcollection.com/exams/sc-300/](https://www.realexamcollection.com/microsoft/sc-300-dumps.html)  
 🔥 Offer valid for a limited time – don't miss out!
 
 ---
