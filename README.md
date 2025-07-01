@@ -2,7 +2,7 @@
 ![Exam Code](https://img.shields.io/badge/SC--300-Microsoft%20Identity-orange?style=flat-square&logo=microsoft)
 ![Updated](https://img.shields.io/badge/Updated-2025-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat-square)
-# ✅ How to Prepare & Pass SC-300 Exam in 2025 – With Real Questions & PDF Sample
+# ✅ How to Prepare & Pass SC-300 Exam in 2025 – With Real Questions & PDF Sample 
 
 The **SC-300: Microsoft Identity and Access Administrator** certification is a valuable credential for anyone working in security, identity, or Azure AD.
 
